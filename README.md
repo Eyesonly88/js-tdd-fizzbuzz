@@ -9,10 +9,10 @@ In this session you will understand how to:
 
 * Write a simple JS test using the YUI Test framework.
 * Use YUI module loading to load our module under test.
-* Running our tests in a browser and logging the results.
+* Run our tests in a browser and log the results.
 
 
 To get started:
 
-* Git Clone this_repository_url.
+* git clone this_repository_url.
 * Or download the source as a zip file from above.

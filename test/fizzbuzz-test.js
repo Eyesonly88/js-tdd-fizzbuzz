@@ -15,7 +15,7 @@ YUI.add('fizzbuzz-test', function(Y){
         name : "Number Division Tests",
 
         'Passing a number divisible by Three should return true' : function () {
-        	Assert.isTrue(FizzBuzz.isDivisibleByThree());
+        	Assert.isTrue(FizzBuzz.isDivisibleByThree(3));
         }
 
     }));
